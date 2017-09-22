@@ -1,1 +1,1 @@
-# colorGuessingGame
+I'm practicing my javascript coding by writing a color guessing game where there is a set array of colors and one will randomly be selected as the target color using Event Listener. The user will then be prompted to select a color. The selection goes through some criteria and if correct the background color of the page changes to match the correct color.
